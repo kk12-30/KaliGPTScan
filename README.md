@@ -17,6 +17,10 @@
 
 <a name="chinese"></a>
 
+![image](https://github.com/kk12-30/KaliGPT/blob/main/t1.png)
+![image](https://github.com/kk12-30/KaliGPT/blob/main/t2.png)
+
+
 ## 📖 项目简介
 
 KaliGPT-Attack Platform 是一个创新的AI驱动的自主渗透测试工具，采用独特的**三模块架构**（推理、生成、解析），有效解决了传统LLM在长时间渗透测试过程中的上下文丢失问题。该工具支持Web UI和MCP-stdio两种工作模式，能够自主决策、执行渗透测试任务，并实时反馈结果。
