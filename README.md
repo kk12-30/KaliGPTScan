@@ -284,7 +284,6 @@ AI执行流程：
 
 如果这个项目对你有帮助，请给我们一个 Star ⭐️
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kk12-30/KaliGPT&type=Date)](https://star-history.com/#kk12-30/KaliGPT&Date)
 
 ---
 
