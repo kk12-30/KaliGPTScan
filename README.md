@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-![KaliGPT Logo](https://img.shields.io/badge/KaliGPT-Attack-Platform-00D9FF?style=for-the-badge&logo=kalilinux&logoColor=white)
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
