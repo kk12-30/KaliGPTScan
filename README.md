@@ -1,4 +1,4 @@
-# KaliGPT-Attack Platform (beta v0.1)🛡️
+# KaliGPT-Attack Platform (beta v0.2)🛡️
 
 <div align="center">
 
