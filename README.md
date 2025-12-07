@@ -2,7 +2,6 @@
 
 # KaliGPT-Attack Platform (beta v0.2)🛡️
 
-<div align="center">
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
