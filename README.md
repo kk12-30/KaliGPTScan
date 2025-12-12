@@ -23,6 +23,8 @@
 
 ## 📖 项目简介
 
+推荐使用硅基流动的LLM接口：https://cloud.siliconflow.cn/i/JsMeWiWt
+
 KaliGPT-Attack Platform 是一个创新的AI驱动的自主渗透测试工具，采用独特的**三模块架构**（推理、生成、解析），有效解决了传统LLM在长时间渗透测试过程中的上下文丢失问题。该工具支持Web UI和MCP-stdio两种工作模式，能够自主决策、执行渗透测试任务，并实时反馈结果。
 
 ### ✨ 核心特性
